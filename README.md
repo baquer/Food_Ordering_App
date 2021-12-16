@@ -29,3 +29,8 @@ functionalities are executed.
 3) Then comes to the payment part which contains the functionalities such as
 applying promo codes, checking minimum cart value etc, this part is present in
 the Rest.java file
+
+# How to run the Project
+
+-> javac Main.java
+-> java Main
