@@ -32,5 +32,6 @@ the Rest.java file
 
 # How to run the Project
 
--> javac Main.java
--> java Main
+* javac Main.java
+
+* java Main
